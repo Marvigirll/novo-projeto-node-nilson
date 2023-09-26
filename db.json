@@ -1,0 +1,187 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+      
+    },
+    {
+      "id": 4,
+      "nome": "Espírita"
+    },
+    {
+      "id": 5,
+      "nome": "Romance"
+    },
+    {
+      "id": 6,
+      "nome": "Psicologia"
+    },
+    {
+      "id": 7,
+      "nome": "Política"
+    },
+    {
+      "id": 8,
+      "nome": "Sociologia"
+    },
+    {
+      "id": 9,
+      "nome": "Mistério"
+    },
+    {
+      "id": 10,
+      "nome": "Contos de Fada"
+    },
+    {
+      "nome": "Drama",
+      "id": 11
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+      {
+        "id": 4,
+        "titulo": "Nosso lar",
+        "autor": "Francisco Cândido Xavier, André Luiz",
+        "anoPublicacao": 2019,
+        "isbn": "13. 978-8573289442",
+        "disponivel": true,
+        "categoriaId": 4
+      },
+      {
+        "id": 5,
+        "titulo": "Diálogo com as Sombras",
+        "autor": "Hermínio Miranda",
+        "anoPublicacao": 2018,
+        "isbn": "10. 8573289562",
+        "disponivel": true,
+        "categoriaId": 4
+      },
+      {
+        "id": 6,
+        "titulo": "Violetas na Janela",
+        "autor": "Vera Lúcia Marinzeck de Carvalho ",
+        "anoPublicacao": 1986,
+        "isbn": "13. 978-8572530101",
+        "disponivel": true,
+        "categoriaId": 4
+      },
+      {
+        "id": 7,
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen ",
+        "anoPublicacao": 1813,
+        "isbn": "13: 9788544001820",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 8,
+        "titulo": "Outlander",
+        "autor": "Diana Gabaldon",
+        "anoPublicacao": 1991,
+        "isbn": "10. 8580418216 ",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 9,
+        "titulo": "A Culpa É das Estrelas",
+        "autor": "John Green",
+        "anoPublicacao": 2012,
+        "isbn": "10. 8580573807 ",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 10,
+        "titulo": "Amor nos Tempos do Cólera",
+        "autor": "Gabriel García Márquez",
+        "anoPublicacao": 1985,
+        "isbn": "13. 978-8501028723 ",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 11,
+        "titulo": "Inteligência Emocional",
+        "autor": "Daniel Goleman",
+        "anoPublicacao": 1995,
+        "isbn": "10. 8573020806 ",
+        "disponivel": true,
+        "categoriaId": 6
+      },
+      {
+        "id": 12,
+        "titulo": "A Arte de Amar",
+        "autor": "Erich Fromm",
+        "anoPublicacao": 2001,
+        "isbn": "13. 978-8533613355 ",
+        "disponivel": true,
+        "categoriaId": 6
+      },
+      {
+        "id": 13,
+        "titulo": "O Andar do Bêbado: Como o Acaso Determina Nossas Vidas",
+        "autor": "Leonard Mlodinow",
+        "anoPublicacao": 2009,
+        "isbn": "10. 8537801550 ",
+        "disponivel": true,
+        "categoriaId": 6
+      },
+      {
+        "id": 14,
+        "titulo": "O Homem em Busca de um Sentido",
+        "autor": "Viktor E. Frankl",
+        "anoPublicacao": 2012,
+        "isbn": "13. 978-9892319919",
+        "disponivel": true,
+        "categoriaId": 6
+      },
+      {
+        "id": 15,
+        "titulo": "Mindset: A Nova Psicologia do Sucesso",
+        "autor": "Carol S. Dweck",
+        "anoPublicacao": 2017,
+        "isbn": "13. 978-8547000240",
+        "disponivel": true,
+        "categoriaId": 6
+      }
+
+  ]
+}
